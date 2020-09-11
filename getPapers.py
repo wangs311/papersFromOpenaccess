@@ -13,8 +13,8 @@ import re
 import requests
 import os
 
-# CVPR ICCV ECCV
-CONFERENCE = 'CVPR2020'
+# CVPR ICCV ECCV WACV
+CONFERENCE = 'WACV2020'
 # 关键字可以添加多个
 KEYWORDS = ['few-shot', 'few']
 # 是否下载

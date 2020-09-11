@@ -1,0 +1,4 @@
+  1. [Few-Shot Learning of Video Action Recognition Only Based on Video Contents](https://openaccess.thecvf.com/content_WACV_2020/papers/Bo_Few-Shot_Learning_of_Video_Action_Recognition_Only_Based_on_Video_WACV_2020_paper.pdf)
+  2. [Charting the Right Manifold: Manifold Mixup for Few-shot Learning](https://openaccess.thecvf.com/content_WACV_2020/papers/Mangla_Charting_the_Right_Manifold_Manifold_Mixup_for_Few-shot_Learning_WACV_2020_paper.pdf)
+  3. [Few-Shot Scene Adaptive Crowd Counting Using Meta-Learning](https://openaccess.thecvf.com/content_WACV_2020/papers/Reddy_Few-Shot_Scene_Adaptive_Crowd_Counting_Using_Meta-Learning_WACV_2020_paper.pdf)
+  4. [Class-Discriminative Feature Embedding For Meta-Learning based Few-Shot Classification](https://openaccess.thecvf.com/content_WACV_2020/papers/Rahimpour_Class-Discriminative_Feature_Embedding_For_Meta-Learning_based_Few-Shot_Classification_WACV_2020_paper.pdf)
