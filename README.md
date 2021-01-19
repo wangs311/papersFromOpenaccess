@@ -1,11 +1,3 @@
-<!--
- * @Descripttion: 
- * @version: 
- * @Author: wangshuo
- * @Date: 2020-06-29 15:42:44
- * @LastEditors: wangshuo
- * @LastEditTime: 2020-07-28 11:01:40
---> 
 # 根据关键词下载CV顶会文章列表
 
 ## 说明
