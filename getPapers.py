@@ -14,7 +14,7 @@ import requests
 import os
 
 # CVPR ICCV ECCV WACV
-CONFERENCE = 'WACV2020'
+CONFERENCE = 'CVPR2021'
 # 关键字可以添加多个
 KEYWORDS = ['few-shot', 'few']
 # 是否下载
@@ -30,6 +30,8 @@ if CONFERENCE.upper() == 'CVPR2020':
     DAY = ['2020-06-16', '2020-06-17', '2020-06-18']
 elif CONFERENCE.upper() == 'CVPR2019':
     DAY = ['2019-06-18', '2019-06-19', '2019-06-20']
+elif CONFERENCE.upper() == 'CVPR2021':
+    DAY = ['all']
 
 if len(DAY) > 0:
     URL = []
